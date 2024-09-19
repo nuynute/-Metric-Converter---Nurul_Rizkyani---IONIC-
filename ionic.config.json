@@ -1,0 +1,8 @@
+{
+  "name": "TugasPengembanganMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "08c806be"
+}
